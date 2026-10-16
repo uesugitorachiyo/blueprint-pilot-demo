@@ -1,0 +1,29 @@
+# This is a public showcase, not an application workspace.
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+.env
+.env.*
+!.env.example
+*.log
+# Keep native projects, source drawings and support archives outside this repo.
+*.bpproj
+*.bpsupport.zip
+*.pdf
+*.dwg
+*.dxf
+*.step
+*.stp
+*.blend
+*.glb
+*.gltf
+*.exe
+*.dll
+*.zip
+playwright-report/
+test-results/
